@@ -268,7 +268,6 @@
     "wd:wordcount":398,
     "wof:belongsto":[
         85632517,
-        85681311,
         102191583,
         136253039
     ],
@@ -295,7 +294,7 @@
     "wof:id":890440179,
     "wof:lastmodified":1690848324,
     "wof:name":"Kingston",
-    "wof:parent_id":85681311,
+    "wof:parent_id":85632517,
     "wof:placetype":"locality",
     "wof:population":880,
     "wof:population_rank":2,
